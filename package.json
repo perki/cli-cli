@@ -1,0 +1,21 @@
+{
+  "author": "Perki <pm@perki.com>",
+  "name": "cli-cli",
+  "description": "Add a Command Line Interface to your app",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:perki/cli-cli.git"
+  },
+  "main": "src/main.js",
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "dependencies": {
+    "lodash": "~2.0.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
